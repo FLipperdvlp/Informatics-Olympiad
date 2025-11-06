@@ -31,5 +31,5 @@ All programs are written in **C++17/20** and prepared for submission to the **of
 ## 📈 Progress
 
 ```text
-🧩 Tasks completed: 2 / 6
-██████░░░░░░░░░░ 33%
+🧩 Tasks completed: 1 / 6
+██████░░░░░░░░░░ 17%
