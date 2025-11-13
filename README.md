@@ -19,17 +19,16 @@ All programs are written in **C++17/20** and prepared for submission to the **of
 
 | # | Task Name | Status | Score | File |
 |---|------------|--------|--------|------|
-| 1️⃣ | **Łazik kosmiczny (Mars Rover)** | 🟢 Completed | ⭐ live feedback | `lazik.cpp` |
-| 2️⃣ | **Siłownia dla początkujących (Beginner’s Gym)** | ⚪ To do  | ⏳ after contest | `silownia.cpp` |
+| 1️⃣ | **Łazik kosmiczny (Mars Rover)** | ⚪ To do | ⚪ To do | `lazik.cpp` |
+| 2️⃣ | **Siłownia dla początkujących (Beginner’s Gym)** | 🟢 Completed | ⭐ live feedbac | `silownia.cpp` |
 | 3️⃣ | **Dostawy (Deliveries)** | ⚪ To do  | ⏳ after contest | `dostawy.cpp` |
 | 4️⃣ | **Hanoj (Hanoi)** | ⚪ To do | ⏳ after contest | `hanoj.cpp` |
 | 5️⃣ | **Przeglądarka internetowa (Web Browser)** | ⚪ To do | ⏳ after contest | `przegladarka.cpp` |
-| 6️⃣ | **Rozwiązanie pokojowe (Peaceful Solution)** | ⚪ To do | ⏳ after contest | `pokojowe.cpp` |
+| 6️⃣ | **Rozwiązanie pokojowe (Peaceful Solution)** | 🟢 Completed | ⭐ live feedbac | `pokojowe.cpp` |
 
 ---
 
 ## 📈 Progress
 
 ```text
-🧩 Tasks completed: 1 / 6
-██████░░░░░░░░░░ 17%
+🧩 Tasks completed: 2 / 6
